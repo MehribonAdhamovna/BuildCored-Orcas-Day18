@@ -1,5 +1,5 @@
 # BuildCored-Orcas-Day18
-PWMSimulator — BUILDCORED ORCAS Day 18
+DepthMapper  — BUILDCORED ORCAS Day 18
 
 What it does. It’s like an AI "brain" for your webcam that guesses how far away things are just by looking at them. It turns your video into a colorful map where bright colors mean "close" and dark colors mean "far."
 
